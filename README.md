@@ -39,7 +39,11 @@ Describe any challenges encountered while building the app.
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://imgur.com/PPgtbEp.gif" width=250><br>
+
+
+https://user-images.githubusercontent.com/73111863/154786795-60a846bf-415b-4d14-b9de-ad6613089d49.mov
+
+
 
 ### Notes
 Describe any challenges encountered while building the app.
