@@ -1,6 +1,5 @@
 # Flix-1
 iOS Codepath: Flix App Part 1
-![](https://i.imgur.com/Hi56duS.gif)
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
@@ -17,8 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
+<img src="https://i.imgur.com/Hi56duS.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
