@@ -15,8 +15,8 @@ https://user-images.githubusercontent.com/73111863/154786685-0ace9ffe-1f9e-4af1-
 - [√] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #### BONUS
-- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
-- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+- [√] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [√] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### Notes
 Describe any challenges encountered while building the app.
@@ -32,7 +32,7 @@ Describe any challenges encountered while building the app.
 - [√] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
+- [√] (2pt) User can view the app on various device sizes and orientations.
 - [√] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
